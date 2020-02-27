@@ -1,23 +1,28 @@
 {
   "name": "masked-credit-card-number",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Masked credit card number for string or objects",
   "main": "index.js",
   "scripts": {
     "test": "jest",
     "test:watch": "jest --watch"
   },
-  "keywords": ["creditcard", "masked", "string", "object"],
+  "keywords": [
+    "creditcard",
+    "masked",
+    "string",
+    "object"
+  ],
   "author": "",
   "contributors": [
     {
-      "name" : "Jonnatan Oyarzun",
-      "email" : "jonsxaero@gmail.com",
-      "url" : "https://www.joyarzun.cl"
+      "name": "Jonnatan Oyarzun",
+      "email": "jonsxaero@gmail.com",
+      "url": "https://www.joyarzun.cl"
     },
     {
-      "name" : "Vanessa Gonzalez",
-      "email" : "vanesuying@gmail.com"
+      "name": "Vanessa Gonzalez",
+      "email": "vanesuying@gmail.com"
     }
   ],
   "license": "MIT",
