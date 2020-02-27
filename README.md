@@ -1,4 +1,4 @@
-# Foobar
+# Masked Credit Card Number
 
 Masked Credit Card Number is a JavaScript library for hide part of credit cards that come from a string or object
 
